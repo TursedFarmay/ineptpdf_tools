@@ -45,6 +45,7 @@ make
 ./bruteforce in.pdf
 # optional speedup, if you know your PDF contains a short compressed stream object later:
 ./bruteforce in.pdf 100
+```
 
 #### inspect_pdf
 
